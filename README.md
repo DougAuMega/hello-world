@@ -1,5 +1,5 @@
 # hello-world
-Nubie data star
+Nubie data star,
 Hello Earthlings
 
 Doug AuMega Here, I am re-newed to this as I was in a college that showed me more about math than Network Adm. and Security 2004
